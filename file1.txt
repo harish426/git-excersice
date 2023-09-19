@@ -1,1 +1,5 @@
-this is class1 after confusion
+
+this is class1
+
+added feature1
+

@@ -1,1 +1,4 @@
-this class2
+
+this is class 2
+
+and moved to feature2
